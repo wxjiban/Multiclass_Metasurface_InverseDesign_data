@@ -61,3 +61,4 @@ image_paths = [
 
 for path in image_paths:
     analyze_structure_image(path)
+    print()
